@@ -11,9 +11,7 @@ You may be able to find the page in the next website: https://jonathanlunabiom.g
 ## Usage
 
 As mentioned, this is a webpage working as a repository of the future projects I will make. To use it you can access to the information from the top as in the bottom (about me, contact, projects, etc).
- ![Alt text](../02-Challenge/Assets/images/Lernantino.png) 
 You may be able yo see the sections like work, where the substantial part of the code is mainly found.
- ![Alt text](../02-Challenge/Assets/images/work.png) 
 
 ## Credits
 
