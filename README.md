@@ -1,4 +1,4 @@
-# Lernantino Site
+# Jonathan Luna Site
 
 ## Description
 
@@ -6,7 +6,7 @@ This is a page made for Lernantino, you can check every seccion and get infomati
 
 ## Installation
 
-You may be able to find the page in the next website: https://jonathanlunabiom.github.io/LernantinoSite/
+You may be able to find the page in the next website: https://jonathanlunabiom.github.io/JonathanLunaSite/
 
 ## Usage
 
